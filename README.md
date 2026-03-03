@@ -7,7 +7,7 @@
 **ORCID:** [0009-0007-3542-0979](https://orcid.org/0009-0007-3542-0979)  
 **DeSci Labs dPID:** 794  
 **License:** CC BY-NC 4.0  
-**Date:** December 2025 – February 2026
+**Date:** November 2025 – February 2026
 
 ---
 
