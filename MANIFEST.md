@@ -5,7 +5,7 @@
 **ORCID:** 0009-0007-3542-0979  
 **Affiliation:** USTE Technologies LLC, Simi Valley, California  
 **License:** CC BY-NC 4.0 (all papers)  
-**Deployment Date:** February 2026  
+**Deployment Date:** November 2025  
 
 ---
 
@@ -46,30 +46,4 @@ quantum gravity, USTE Technologies
 | Journal of Mathematical Physics | 11 | Navier-Stokes resolution |
 | Studies in History and Philosophy of Science | 10 | Response to Hansson |
 
-## Multi-Platform Distribution
 
-| Platform | Content | Status |
-|----------|---------|--------|
-| DeSci Labs | All 11 papers (dPID 794) | Ready |
-| GitHub | Full repository with metadata | Ready |
-| ORCID | Link all publications | Ready |
-| YouTube | TED-style talks per paper | Scripts exist |
-| TikTok | 60-second summaries | To produce |
-| LinkedIn | Professional announcements | To draft |
-| X (Twitter) | Thread per paper + prediction highlights | To draft |
-
-## Known Issues
-
-| Paper | Issue | Severity |
-|-------|-------|----------|
-| 1 | Version mismatch: header v2.2 vs footer v2.3 | Low (cosmetic) |
-| 8 | License updated via overlay (CC BY 4.0 → CC BY-NC 4.0) | Fixed |
-| 9 | License updated via overlay (CC BY 4.0 → CC BY-NC 4.0) | Fixed |
-| 11 | Predictions table (Section 6.2) visually broken in PDF | Medium (content intact) |
-
-## Upload Sequence (Recommended)
-
-1. Papers 1–3 (Foundations) — establishes the framework
-2. Papers 4–6 (Structure) — builds the architecture
-3. Papers 7–9 (Math) — derives constants and geometry
-4. Papers 10–11 (Challenges) — addresses skepticism and applies to Millennium Problem
